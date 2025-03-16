@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Height="NaN" Margin="21,72,540,88" Width="NaN"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Height="NaN" Margin="22,72,540,88" Width="NaN"/>
         <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Height="NaN" Margin="400,72,171,88" Width="NaN"/>
 
     </Grid>
